@@ -1,7 +1,6 @@
 # Netflix SQL Analysis
 
-Beginner-friendly SQL analysis of the **Netflix Movies and TV Shows** dataset.  
-Goal: show clear, readable queries that answer practical questions with SQL.
+SQL analysis of 8,807 Netflix titles examining changes in catalog composition, international content production, genre mix, and release-to-platform timing.Goal: show clear, readable queries that answer practical questions with SQL.
 
 ## Dataset
 - Source: Kaggle — *Netflix Movies and TV Shows* by Shivam Bansal  
